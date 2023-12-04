@@ -76,14 +76,14 @@ body {
 
   left: 0;
   bottom: 0;
-  background-color: #000;
+  background-color: #fa0101;
   opacity: 0.5;
   overflow: hidden;
 }
 
 .marquee-text {
   white-space: nowrap;
-  color: #ebc03c;
+  color: #deddd9;
   font-weight: bold;
   animation: marquee-scroll 10s linear infinite;
 }
