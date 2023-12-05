@@ -62,7 +62,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
             <img
-                src="{{ asset('user_app/assets/images/banner/banner6551a36c29352.png') }}"
+                src="{{ asset('user_app/assets/images/shwe_sin_1.jpg') }}"
                 style="max-height: 500px"
                 class="d-block w-100"
                 alt="..."
@@ -75,7 +75,7 @@
             </div>
             <div class="carousel-item">
             <img
-                src="{{ asset('user_app/assets/images/banner/banner6551a35f3f8a0.png') }}"
+                src="{{ asset('user_app/assets/images/shwe_sin_2.jpg') }}"
                 style="max-height: 500px"
                 class="d-block w-100"
                 alt="..."
